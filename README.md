@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceMesh-orange)
+![Status](https://img.shields.io/badge/Status-Working-success)
+
 # 😴 Real-Time Sleep Detection (Python)
 
 A real-time sleep detection system using a webcam.

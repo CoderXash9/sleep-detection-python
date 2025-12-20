@@ -1,7 +1,11 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-green)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceMesh-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Landmarks-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Working-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![MadeWith](https://img.shields.io/badge/Made%20With-Passion-red)
 
 # 😴 Real-Time Sleep Detection (Python)
 

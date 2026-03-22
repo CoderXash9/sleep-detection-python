@@ -12,11 +12,11 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="Screenshot%202026-03-22%20192743.png" width="600"/>
+  <img src="Screenshot%202026-03-22%20192743.png" width="700"/>
 </p>
 
-A real-time sleep detection system using a webcam.
-The program detects whether eyes are open or closed and displays **AWAKE** or **SLEEP** on screen.
+A real-time drowsiness detection system using computer vision and facial landmark analysis.  
+The system monitors eye movement via webcam and classifies the user as **AWAKE** or **SLEEP**, triggering alerts for fatigue detection.
 
 ## 🚀 Features
 - Real-time webcam processing

@@ -11,8 +11,14 @@
 
 ## 📸 Project Preview
 
+<h3 align="center">😴 SLEEP State</h3>
 <p align="center">
-  <img src="Screenshot%202026-03-22%20192743.png" width="700"/>
+  <img src="Screenshot%202026-03-22%20192743.png" width="600"/>
+</p>
+
+<h3 align="center">😐 AWAKE State</h3>
+<p align="center">
+  <img src="Screenshot%202026-03-22%20194615.png" width="600"/>
 </p>
 
 A real-time drowsiness detection system using computer vision and facial landmark analysis.  

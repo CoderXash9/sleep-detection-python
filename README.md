@@ -9,6 +9,12 @@
 
 # 😴 Real-Time Sleep Detection (Python)
 
+## 📸 Project Preview
+
+<p align="center">
+  <img src="Screenshot%202026-03-22%20192743.png" width="600"/>
+</p>
+
 A real-time sleep detection system using a webcam.
 The program detects whether eyes are open or closed and displays **AWAKE** or **SLEEP** on screen.
 
